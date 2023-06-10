@@ -3,7 +3,7 @@ Testing Script using Selenium Web Driver
 
 ## Requirement
 1. NodeJS
-2. Prototype of if-me.org
+2. Prototype of if-me.org (Running on your localhost)
 
 ## Step
 1. Clone the repository
